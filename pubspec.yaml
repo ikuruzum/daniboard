@@ -1,0 +1,15 @@
+name: daniboard
+description: Non-flutter clipboard solution
+version: 1.0.0
+repository: https://github.com/ikuruzum/daniazs_clipboard
+
+environment:
+  sdk: ^3.4.4
+
+
+dependencies:
+   path: ^1.9.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
