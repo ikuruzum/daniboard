@@ -1,10 +1,10 @@
 name: daniboard
-description: Non-flutter clipboard solution
-version: 1.0.0
-repository: https://github.com/ikuruzum/daniazs_clipboard
+description: Non-flutter clipboard solution for dart cli applications
+version: 1.0.1
+repository: https://github.com/ikuruzum/daniboard
 
 environment:
-  sdk: ^3.4.4
+  sdk: ^3.0.0
 
 
 dependencies:

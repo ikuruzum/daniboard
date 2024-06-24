@@ -1,10 +1,9 @@
 # Changelog
 
-## 0.2.0
+## 1.0.1
 
-- `copy` now returns a `Future<bool>`
-- Better error handling
+- fixed pubspec.yaml
 
-## 0.1.0
 
-- Initial version, works on Linux, Osx, Windows and Browser
+## 1.0.0
+- Initial version, works on Linux, Osx and Windows.
